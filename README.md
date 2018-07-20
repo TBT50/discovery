@@ -1,3 +1,3 @@
-Live preview (might be temporary inaccessible):
+Live preview (only for demonstration purposes):
 
 https://discovery-test.netlify.com/
